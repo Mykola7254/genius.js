@@ -38,18 +38,18 @@
 // console.log(message.toUpperCase());
 
 //9
-let obj = {};
-obj.name = 'Ivan';
-obj.age = 34;
-obj.city = 'Kyiv';
-console.log(obj);
-delete obj.city;
-console.log(obj);
-obj['like flowers'] = true;
+// let obj = {};
+// obj.name = 'Ivan';
+// obj.age = 34;
+// obj.city = 'Kyiv';
+// console.log(obj);
+// delete obj.city;
+// console.log(obj);
+// obj['like flowers'] = true;
 // console.log(obj);
 
 // 10
-for (key in obj) {
-  console.log(key);
-  console.log(obj[key]);
-}
+// for (key in obj) {
+//   console.log(key);
+//   console.log(obj[key]);
+// }
